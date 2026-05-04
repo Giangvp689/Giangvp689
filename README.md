@@ -83,38 +83,48 @@ public class GiangDeveloper {
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0078D7?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
-## 📊 GitHub Statistics
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-/>
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Giangvp689&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
 <!-- ============================================================ -->
-<!--                      TROPHIES                                -->
+<!-- GITHUB STATS — dùng theme sáng + màu xanh custom            -->
+<!-- Nếu ảnh không hiện: bạn cần fork repo github-readme-stats   -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Statistics
 
+<!-- Stats Card -->
+<img height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&theme=default&title_color=1a73e8&text_color=0d47a1&icon_color=4facfe&border_color=4facfe&bg_color=EBF5FF&count_private=true&include_all_commits=true&hide_border=false"
+  alt="Giang's GitHub Stats"/>
+
+<!-- Top Languages -->
+<img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=default&title_color=1a73e8&text_color=0d47a1&border_color=4facfe&bg_color=EBF5FF&langs_count=8&hide_border=false"
+  alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- STREAK STATS — theme xanh sáng -->
 <img
-  src="https://github-profile-trophy.vercel.app/?username=Giangvp689&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"
-  alt="GitHub Trophies"
-/>
+  src="https://streak-stats.demolab.com/?user=Giangvp689&theme=default&background=EBF5FF&border=4facfe&ring=1a73e8&fire=4facfe&currStreakLabel=1a73e8&sideLabels=0d47a1&currStreakNum=0050C8&sideNums=0050C8&dates=5f9ea0&stroke=4facfe"
+  alt="GitHub Streak Stats"/>
 
 </div>
+
+---
+
+<!-- TROPHIES -->
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Giangvp689&theme=flat&no-frame=false&column=8&margin-w=6&title_color=1a73e8&text_color=0d47a1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 
 ---
 
