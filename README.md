@@ -117,14 +117,7 @@ public class GiangDeveloper {
 />
 
 </div>
-<div align="center">
 
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=Giangvp689&theme=transparent&hide_border=true"
-/>
-
-</div>
 ---
 
 <!-- ============================================================ -->
