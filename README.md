@@ -228,6 +228,7 @@ public class GiangDeveloper {
 
 ---
 
+## 🎵 Currently Vibing To
 <!-- ============================================================ -->
 <!--                  SPOTIFY NOW PLAYING                         -->
 <!-- ============================================================ -->
@@ -236,14 +237,14 @@ public class GiangDeveloper {
 
 ## 🎵 Currently Vibing To
 
-<p align="center">
-  <a [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31laqu3vjwny3jv2ec2ec4egkhka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
-  </a>
-</p>
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31laqu3vjwny3jv2ec2ec4egkhka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false"
+    alt="Spotify Now Playing"
+  />
+</a>
 
 </div>
-
----
 
 <!-- ============================================================ -->
 <!--                  CONTACT / CONNECT                           -->
@@ -256,8 +257,6 @@ public class GiangDeveloper {
 [![GitHub](https://img.shields.io/badge/GitHub-Giangvp689-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Giangvp689)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1a73e8?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giag.tran.3133)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-4facfe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Giangvp689@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0078D7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
 <br/>
 
 **💡 Sẵn sàng hợp tác trong các dự án thú vị!**
