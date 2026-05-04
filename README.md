@@ -248,7 +248,7 @@ impl Developer {
 
 [![GitHub](https://img.shields.io/badge/GitHub-Giangvp689-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Giangvp689)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Giangvp689@gmail.com)
 
 <br/>
 
