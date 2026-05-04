@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a73e8,30:4facfe,60:00c6ff,100:e8f4fd&text=Trần%20Trường%20Giang&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=⚡%20Software%20Engineer%20%7C%20AI%20%7C%20Cloud%20Computing&descAlignY=70&descSize=18&descColor=e8f4fd)](https://github.com/Giangvp689)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,35:1D4ED8,70:38BDF8,100:8B5CF6&text=Trần%20Trường%20Giang&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Software%20Engineer%20|%20AI%20Engineer%20|%20Cloud%20Computing&descAlignY=64&descSize=22)](https://github.com/Giangvp689)
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=1A73E8&center=true&vCenter=true&width=680&lines=%3E+Hello+World!+I'm+Giang+%F0%9F%91%8B;%3E+Software+Engineer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;%3E+Passionate+about+AI+%26+Cloud+Computing+%E2%98%81%EF%B8%8F;%3E+C+%7C+C%2B%2B+%7C+C%23+%7C+Java+%7C+ML+%F0%9F%A4%96;%3E+Always+learning%2C+always+building...+%F0%9F%9A%80)](https://github.com/Giangvp689)
