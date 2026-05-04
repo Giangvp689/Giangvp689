@@ -174,64 +174,102 @@ public class GiangDeveloper {
 </div>
 
 ---
-
 <!-- ============================================================ -->
 <!--                  FEATURED PROJECTS                           -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-## 🚀 Dự Án Nổi Bật
+## 🚀 Featured Projects
+
+<p>
+  Một số dự án nổi bật thể hiện năng lực về Software Engineering,
+  Artificial Intelligence, Healthcare Solutions và Cloud Computing.
+</p>
 
 </div>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📝 Note & TodoList App</h3>
+      <h3 align="center">🫁 Lung Cancer Detection AI</h3>
       <div align="center">
-        <a href="https://github.com/Giangvp689/Note-TodoList_App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Note-TodoList_App&bg_color=e8f4fd&title_color=1a73e8&text_color=0d47a1&icon_color=4facfe&border_color=4facfe&border_radius=12"/>
+        <a href="https://github.com/Giangvp689/Lung-Cancer-Detection">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Lung-Cancer-Detection&theme=tokyonight&hide_border=true"
+          />
         </a>
-        <br/><img src="https://img.shields.io/badge/Java-4facfe?style=flat-square&logo=openjdk&logoColor=white"/>
-        <p>Ứng dụng quản lý ghi chú & công việc toàn diện</p>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square"/>
+        <p align="center">
+          Hệ thống phát hiện ung thư phổi từ ảnh CT sử dụng Deep Learning,
+          hỗ trợ chẩn đoán y khoa thông minh.
+        </p>
       </div>
     </td>
+
     <td width="50%" valign="top">
-      <h3 align="center">🏨 Quản Lý Khách Sạn</h3>
+      <h3 align="center">🏥 Clinic Management System</h3>
       <div align="center">
-        <a href="https://github.com/Giangvp689/Quan_Ly_Khach_San">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Quan_Ly_Khach_San&bg_color=e8f4fd&title_color=1a73e8&text_color=0d47a1&icon_color=4facfe&border_color=4facfe&border_radius=12"/>
+        <a href="https://github.com/Giangvp689/Clinic-Management-System">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Clinic-Management-System&theme=tokyonight&hide_border=true"
+          />
         </a>
-        <br/><img src="https://img.shields.io/badge/C%23-1a73e8?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <p>Hệ thống quản lý khách sạn đầy đủ tính năng</p>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <p align="center">
+          Giải pháp quản lý phòng khám toàn diện:
+          bệnh nhân, lịch hẹn, hồ sơ và thanh toán.
+        </p>
       </div>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ Điện Toán Đám Mây</h3>
+      <h3 align="center">📝 Smart Note & Todo App</h3>
       <div align="center">
-        <a href="https://github.com/Giangvp689/Dien_Toan_Dam_May">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Dien_Toan_Dam_May&bg_color=e8f4fd&title_color=1a73e8&text_color=0d47a1&icon_color=4facfe&border_color=4facfe&border_radius=12"/>
+        <a href="https://github.com/Giangvp689/Note-TodoList_App">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Note-TodoList_App&theme=tokyonight&hide_border=true"
+          />
         </a>
-        <br/><img src="https://img.shields.io/badge/Cloud-4facfe?style=flat-square&logo=amazon-aws&logoColor=white"/>
-        <p>Nghiên cứu & ứng dụng điện toán đám mây</p>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Swing-0078D7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <p align="center">
+          Ứng dụng quản lý công việc và ghi chú
+          với giao diện trực quan, hiệu quả cao.
+        </p>
       </div>
     </td>
+
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Trí Tuệ Nhân Tạo</h3>
+      <h3 align="center">☁️ Cloud Computing Platform</h3>
       <div align="center">
-        <a href="https://github.com/Giangvp689/Tri_Tue-Nhan-Tao">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Tri_Tue-Nhan-Tao&bg_color=e8f4fd&title_color=1a73e8&text_color=0d47a1&icon_color=4facfe&border_color=4facfe&border_radius=12"/>
+        <a href="https://github.com/Giangvp689/Dien_Toan_Dam_May">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Dien_Toan_Dam_May&theme=tokyonight&hide_border=true"
+          />
         </a>
-        <br/><img src="https://img.shields.io/badge/AI%2FML-0078D7?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <p>Nghiên cứu và ứng dụng trí tuệ nhân tạo</p>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        <p align="center">
+          Triển khai ứng dụng và dịch vụ
+          trên nền tảng điện toán đám mây hiện đại.
+        </p>
       </div>
     </td>
   </tr>
 </table>
-
 ---
 
 
