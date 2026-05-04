@@ -88,7 +88,11 @@ public class GiangDeveloper {
 ## 📊 GitHub Statistics
 
 <div align="center">
-
+    
+<img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=default&title_color=1a73e8&text_color=0d47a1&border_color=4facfe&bg_color=EBF5FF&langs_count=8&hide_border=false&cache_seconds=1800&v=2"
+  alt="Top Languages"/>
+  
 <br/><br/>
 
 <img
