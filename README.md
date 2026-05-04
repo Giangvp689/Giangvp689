@@ -90,13 +90,12 @@ public class GiangDeveloper {
 <div align="center">
 
 <img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&theme=default&title_color=1a73e8&text_color=0d47a1&icon_color=4facfe&border_color=4facfe&bg_color=EBF5FF&count_private=true&include_all_commits=true&hide_border=false"
-  alt="Giang's GitHub Stats"/>
-&nbsp;
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=default&title_color=1a73e8&text_color=0d47a1&border_color=4facfe&bg_color=EBF5FF&langs_count=8&hide_border=false"
-  alt="Top Languages"/>
+  src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&theme=default&title_color=1a73e8&text_color=0d47a1&icon_color=4facfe&border_color=4facfe&bg_color=EBF5FF&count_private=true&include_all_commits=true&hide_border=false&cache_seconds=1800&v=1"
+/>
 
+<img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=default&title_color=1a73e8&text_color=0d47a1&border_color=4facfe&bg_color=EBF5FF&langs_count=8&hide_border=false&cache_seconds=1800&v=1"
+/>
 <br/><br/>
 
 <img
