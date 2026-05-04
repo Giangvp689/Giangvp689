@@ -195,7 +195,7 @@ public class GiangDeveloper {
 ### 🫁 Lung Cancer Detection AI
 
 <a href="https://github.com/Giangvp689/Lung-Cancer-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Lung-Cancer-Detection&theme=tokyonight&hide_border=true" />
+  
 </a>
 
 <p align="center">
@@ -214,7 +214,7 @@ public class GiangDeveloper {
 ### 🏥 Clinic Management System
 
 <a href="https://github.com/Giangvp689/Clinic-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Clinic-Management-System&theme=tokyonight&hide_border=true" />
+  
 </a>
 
 <p align="center">
@@ -232,10 +232,10 @@ public class GiangDeveloper {
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Smart Note & Todo App
+### 📝 Hotel Management System
 
 <a href="https://github.com/Giangvp689/Note-TodoList_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Note-TodoList_App&theme=tokyonight&hide_border=true" />
+     
 </a>
 
 <p align="center">
@@ -254,8 +254,7 @@ public class GiangDeveloper {
 ### ☁️ Cloud Computing Platform
 
 <a href="https://github.com/Giangvp689/Dien_Toan_Dam_May">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Giangvp689&repo=Dien_Toan_Dam_May&theme=tokyonight&hide_border=true" />
-</a>
+  </a>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
