@@ -81,52 +81,34 @@ public class GiangDeveloper {
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a73e8?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-4facfe?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0078D7?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-</div>
 <!-- ============================================================ -->
-<!--                    GITHUB STATISTICS                         -->
+<!-- GITHUB STATS — dùng theme sáng + màu xanh custom            -->
+<!-- Nếu ảnh không hiện: bạn cần fork repo github-readme-stats   -->
 <!-- ============================================================ -->
 
 <div align="center">
 
 ## 📊 GitHub Statistics
 
-<img width="100%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giangvp689&theme=github" />
-
-<br/><br/>
-
-<img width="49%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giangvp689&theme=github" />
-
-<img width="49%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Giangvp689&theme=github&utcOffset=7" />
-
-<br/><br/>
-
+<!-- Stats Card -->
 <img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&title_color=0366D6&icon_color=0366D6&text_color=24292F&border_color=D0D7DE&bg_color=FFFFFF"
-     alt="GitHub Stats" />
+  src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&theme=default&title_color=1a73e8&text_color=0d47a1&icon_color=4facfe&border_color=4facfe&bg_color=EBF5FF&count_private=true&include_all_commits=true&hide_border=false"
+  alt="Giang's GitHub Stats"/>
 
+<!-- Top Languages -->
 <img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&langs_count=8&theme=default&hide_border=false&title_color=0366D6&text_color=24292F&border_color=D0D7DE&bg_color=FFFFFF"
-     alt="Top Languages" />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=default&title_color=1a73e8&text_color=0d47a1&border_color=4facfe&bg_color=EBF5FF&langs_count=8&hide_border=false"
+  alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="70%"
-     src="https://streak-stats.demolab.com?user=Giangvp689&theme=default&hide_border=false&border=D0D7DE&ring=0366D6&fire=0366D6&currStreakLabel=0366D6&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A"
-     alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="90%"
-     src="https://github-readme-activity-graph.vercel.app/graph?username=Giangvp689&bg_color=ffffff&color=0366d6&line=58a6ff&point=1f6feb&area=true&hide_border=false"
-     alt="Contribution Graph" />
+<!-- STREAK STATS — theme xanh sáng -->
+<img
+  src="https://streak-stats.demolab.com/?user=Giangvp689&theme=default&background=EBF5FF&border=4facfe&ring=1a73e8&fire=4facfe&currStreakLabel=1a73e8&sideLabels=0d47a1&currStreakNum=0050C8&sideNums=0050C8&dates=5f9ea0&stroke=4facfe"
+  alt="GitHub Streak Stats"/>
 
 </div>
 
----
 ---
 
 <!-- TROPHIES -->
