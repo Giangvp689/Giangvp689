@@ -29,7 +29,7 @@ public class GiangDeveloper {
     String  status   = "Working from home 🏠";
 
     String[] languages = {
-        "C", "C++", "C#", "Java", "Python"
+        "C", "C++", "C#", "Java", "Python", "HTML", "CSS", "PHP"
     };
 
     String[] interests = {
