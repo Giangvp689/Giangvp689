@@ -236,9 +236,11 @@ public class GiangDeveloper {
 
 ## 🎵 Currently Vibing To
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=e8f4fd&interchange=true&bar_color=1a73e8&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
-> 🎧 **Cách bật Spotify:** Vào [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com) → Login Spotify → Copy UID → Thay `YOUR_SPOTIFY_USER_ID` ở trên
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31laqu3vjwny3jv2ec2ec4egkhka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 
 </div>
 
@@ -253,8 +255,8 @@ public class GiangDeveloper {
 ## 📬 Kết Nối Với Mình
 
 [![GitHub](https://img.shields.io/badge/GitHub-Giangvp689-0078D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Giangvp689)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1a73e8?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-4facfe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1a73e8?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giag.tran.3133)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-4facfe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Giangvp689@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0078D7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 <br/>
