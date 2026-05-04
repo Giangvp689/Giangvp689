@@ -93,7 +93,7 @@ public class GiangDeveloper {
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=default"
 />
   
-<br/><br/>
+<br/>
 
 <img
   src="https://streak-stats.demolab.com/?user=Giangvp689&theme=default&background=EBF5FF&border=4facfe&ring=1a73e8&fire=4facfe&currStreakLabel=1a73e8&sideLabels=0d47a1&currStreakNum=0050C8&sideNums=0050C8&dates=5f9ea0&stroke=4facfe"
