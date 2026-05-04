@@ -85,34 +85,22 @@ public class GiangDeveloper {
 </div>
 ## 📊 GitHub Statistics
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giangvp689&theme=tokyonight" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giangvp689&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Giangvp689&theme=tokyonight&utcOffset=7" />
-
-<br/><br/>
-
 <img
-  width="49%"
+  height="180em"
   src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
 />
 
 <img
-  width="49%"
+  height="180em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 />
 
 <br/><br/>
 
 <img
-  width="70%"
   src="https://streak-stats.demolab.com?user=Giangvp689&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
----
-
 <!-- ============================================================ -->
 <!--                      TROPHIES                                -->
 <!-- ============================================================ -->
