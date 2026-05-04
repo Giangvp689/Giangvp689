@@ -86,32 +86,45 @@ public class GiangDeveloper {
 
 ---
 <!-- ============================================================ -->
-<!--                    GITHUB STATS                              -->
+<!--                    GITHUB STATISTICS                         -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giangvp689&theme=github"
 />
 
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giangvp689&theme=github"
 />
 
-<br/><br/>
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Giangvp689&theme=github"
+/>
 
 <img
-  src="https://streak-stats.demolab.com?user=Giangvp689&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Giangvp689&theme=github"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Giangvp689&theme=github&utcOffset=7"
 />
 
 </div>
+<div align="center">
 
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=Giangvp689&theme=transparent&hide_border=true"
+/>
+
+</div>
 ---
 
 <!-- ============================================================ -->
