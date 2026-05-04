@@ -81,12 +81,16 @@ public class GiangDeveloper {
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a73e8?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-4facfe?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0078D7?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<br clear="right"/>
+
 <!-- ============================================================ -->
 <!-- GITHUB STATS — dùng theme sáng + màu xanh custom            -->
 <!-- Nếu ảnh không hiện: bạn cần fork repo github-readme-stats   -->
 <!-- ============================================================ -->
 
+
 <div align="center">
+
 
 ## 📊 GitHub Statistics
 
