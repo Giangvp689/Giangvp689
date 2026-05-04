@@ -228,12 +228,6 @@ public class GiangDeveloper {
 
 ---
 
-## 🎵 Currently Vibing To
-<!-- ============================================================ -->
-<!--                  SPOTIFY NOW PLAYING                         -->
-<!-- ============================================================ -->
-
-<div align="center">
 
 ## 🎵 Currently Vibing To
 
