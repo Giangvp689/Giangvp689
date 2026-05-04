@@ -85,7 +85,6 @@ public class GiangDeveloper {
 </div>
 
 ---
-
 <!-- ============================================================ -->
 <!--                    GITHUB STATS                              -->
 <!-- ============================================================ -->
@@ -94,15 +93,22 @@ public class GiangDeveloper {
 
 ## 📊 GitHub Statistics
 
-<a href="https://github.com/Giangvp689">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&bg_color=e8f4fd&title_color=1a73e8&text_color=0d47a1&icon_color=4facfe&border_color=4facfe&border_radius=12&count_private=true&include_all_commits=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&bg_color=e8f4fd&title_color=1a73e8&text_color=0d47a1&border_color=4facfe&border_radius=12&langs_count=8"/>
-</a>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
 
 <br/><br/>
 
-<!-- STREAK — blue theme -->
-<img src="https://streak-stats.demolab.com/?user=Giangvp689&background=e8f4fd&border=4facfe&ring=1a73e8&fire=4facfe&currStreakLabel=1a73e8&sideLabels=1a73e8&currStreakNum=0d47a1&sideNums=0d47a1&dates=5f9ea0&border_radius=12" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=Giangvp689&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -116,7 +122,10 @@ public class GiangDeveloper {
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Giangvp689&theme=flat&no-frame=false&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Giangvp689&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
