@@ -84,36 +84,29 @@ public class GiangDeveloper {
 
 </div>
 
----
-<!-- ============================================================ -->
-<!--                    GITHUB STATISTICS                         -->
+---<!-- ============================================================ -->
+<!--                    GITHUB STATS                              -->
 <!-- ============================================================ -->
 
 <div align="center">
 
+## 📊 GitHub Statistics
+
 <img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giangvp689&theme=github"
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
 />
 
 <img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giangvp689&theme=github"
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 />
 
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Giangvp689&theme=github"
-/>
+<br/><br/>
 
 <img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Giangvp689&theme=github"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Giangvp689&theme=github&utcOffset=7"
+  src="https://streak-stats.demolab.com?user=Giangvp689&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </div>
