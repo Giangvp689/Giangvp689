@@ -135,20 +135,6 @@ public class GiangDeveloper {
 
 </div>
 
-## 🟡 Pac-Man Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Giangvp689/Giangvp689/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Giangvp689/Giangvp689/output/pacman-contribution-graph.svg"/>
-  <img alt="Pac-Man Contribution Graph"
-    src="https://raw.githubusercontent.com/Giangvp689/Giangvp689/output/pacman-contribution-graph.svg"/>
-</picture>
-
-</div>
 
 ## 🚀 Featured Projects
 
@@ -228,6 +214,21 @@ Cloud deployment, containerization, infrastructure automation, and distributed s
 </table>
 
 ---
+
+## 🟡 Pac-Man Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Giangvp689/Giangvp689/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Giangvp689/Giangvp689/output/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/Giangvp689/Giangvp689/output/pacman-contribution-graph.svg"/>
+</picture>
+
+</div>
 
 ## 🎵 Currently Vibing To
 
