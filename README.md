@@ -86,21 +86,21 @@ public class GiangDeveloper {
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-    
+
 <img height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=default"
+  src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&theme=default&bg_color=EBF5FF&title_color=1a73e8&icon_color=4facfe&border_color=4facfe&text_color=0d47a1&include_all_commits=true&count_private=true"
 />
-  
+<img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=default&bg_color=EBF5FF&title_color=1a73e8&border_color=4facfe&text_color=0d47a1"
+/>
+
 <br/>
 
-<img
-  src="https://streak-stats.demolab.com/?user=Giangvp689&theme=default&background=EBF5FF&border=4facfe&ring=1a73e8&fire=4facfe&currStreakLabel=1a73e8&sideLabels=0d47a1&currStreakNum=0050C8&sideNums=0050C8&dates=5f9ea0&stroke=4facfe"
+<img src="https://streak-stats.demolab.com/?user=Giangvp689&theme=default&background=EBF5FF&border=4facfe&ring=1a73e8&fire=4facfe&currStreakLabel=1a73e8&sideLabels=0d47a1&currStreakNum=0050C8&sideNums=0050C8&dates=5f9ea0&stroke=4facfe"
   alt="GitHub Streak Stats"/>
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
