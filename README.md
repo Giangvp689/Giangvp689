@@ -88,9 +88,7 @@ public class GiangDeveloper {
 ## 📊 GitHub Statistics
 <div align="center">
     
-<img height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&theme=default"
-/>
+
   
 <br/>
 
