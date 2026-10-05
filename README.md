@@ -101,23 +101,7 @@ public class GiangDeveloper {
 </div>
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Giangvp689&theme=flat&no-frame=false&column=8&margin-w=6&title_color=1a73e8&text_color=0d47a1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Giangvp689&bg_color=e8f4fd&color=1a73e8&line=4facfe&point=0d47a1&area=true&area_color=4facfe30&hide_border=false&border_radius=12&custom_title=Giang's%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
