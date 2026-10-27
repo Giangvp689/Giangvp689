@@ -210,6 +210,14 @@ Cloud deployment, containerization, infrastructure automation, and distributed s
 </div>
 
 ---
+## 🏆 Trophies
+
+<div align="center">
+
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Giangvp689&theme=flat&no-frame=true&row=1&column=7&margin-w=10"/>
+
+</div>
+---
 
 ## 📬 Connect With Me
 
