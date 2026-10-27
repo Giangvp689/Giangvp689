@@ -199,15 +199,6 @@ Cloud deployment, containerization, infrastructure automation, and distributed s
 
 </div>
 ---
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31laqu3vjwny3jv2ec2ec4egkhka&cover_image=true&theme=default&show_offline=false&background_color=EBF5FF&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
 ---
 
 
