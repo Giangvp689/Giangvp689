@@ -84,22 +84,18 @@ public class GiangDeveloper {
 </div>
 
 ---
-
 ## 📊 GitHub Statistics
-<div align="center">
-    
 
-  
+<div align="center">
+
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Giangvp689&show_icons=true&hide_border=true&bg_color=EBF5FF&title_color=1a73e8&icon_color=4facfe&text_color=0d47a1&count_private=true"/>
+<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giangvp689&layout=compact&hide_border=true&bg_color=EBF5FF&title_color=1a73e8&text_color=0d47a1&langs_count=8"/>
+
 <br/>
 
-<img
-  src="https://streak-stats.demolab.com/?user=Giangvp689&theme=default&background=EBF5FF&border=4facfe&ring=1a73e8&fire=4facfe&currStreakLabel=1a73e8&sideLabels=0d47a1&currStreakNum=0050C8&sideNums=0050C8&dates=5f9ea0&stroke=4facfe"
-  alt="GitHub Streak Stats"/>
+<img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=Giangvp689&theme=default&background=EBF5FF&border=4facfe&ring=1a73e8&fire=4facfe&currStreakLabel=1a73e8&sideLabels=0d47a1&currStreakNum=0050C8&sideNums=0050C8&dates=5f9ea0&stroke=4facfe"/>
 
 </div>
----
-
-
 
 ---
 
