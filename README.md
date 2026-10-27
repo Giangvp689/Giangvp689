@@ -192,6 +192,14 @@ Cloud deployment, containerization, infrastructure automation, and distributed s
 </table>
 
 ---
+## 💬 Dev Quote
+
+<div align="center">
+
+<img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quoteCategory=programming"/>
+
+</div>
+---
 
 ## 🎵 Currently Vibing To
 
