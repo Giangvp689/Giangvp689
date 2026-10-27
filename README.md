@@ -99,6 +99,14 @@ public class GiangDeveloper {
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Giang's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Giangvp689&bg_color=EBF5FF&color=1D4ED8&line=38BDF8&point=8B5CF6&area=true&hide_border=true)](https://github.com/Giangvp689)
+
+</div>
+---
 ## 🐍 Contribution Snake
 
 <div align="center">
